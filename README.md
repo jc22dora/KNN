@@ -3,7 +3,7 @@ This is a program I wrote to implement a K-Nearest Neighbors algorithm. This was
 
 # Stats and Diagrams
 | KNN        | Test Data - 50% | Test Data - 80% |Test Data - 94% |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----:|-----:|
 | 1	|0.916|	0.899|	0.897|
 3	|0.856|	0.855|	0.869|
 5	|0.906|	0.885|	0.904|
